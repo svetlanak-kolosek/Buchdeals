@@ -1,0 +1,16 @@
+{
+    "Login" : {
+        "Email":".form-control",
+        "Password":".form-control",
+        "Submit":".form-control",
+        "Message":".alert",
+        "Title": "h1.text.-white.-bold",
+        "SignIn": ".btn.btn-primary",
+        "Btn": "a.btn.btn-primary.-round.float-right",
+        "Author": "a[href='/autoren']",
+        "Log": "a[href='/autoren/sign_in']"
+
+
+       
+    }
+}

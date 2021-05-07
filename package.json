@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "cypress": "cypress open"
+    },
+    "devDependencies": {
+        "cypress-ntlm-auth": "^3.2.0"
+    },
+    "dependencies": {
+        "cypress": "^7.2.0"
+    }
+}
